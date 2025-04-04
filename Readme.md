@@ -45,7 +45,7 @@ A dedicated Data Warehouse enables AtliQ to process large-scale data efficiently
 
 ## 🗂️ AtliQ’s Data Catalog
 
-For the **Business Insight 360** project, **Tony Sharma (DA Lead)** provided a detailed **Data Catalog** (Excel format) that includes:
+
 - **DBMS Server Names**  
 - **Table Names and Descriptions**  
 - **Support Contacts for Data Engineering**
