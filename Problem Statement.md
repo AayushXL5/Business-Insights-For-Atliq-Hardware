@@ -58,5 +58,3 @@ We are using the following servers for this project:
 
 ---
 
-📎 [Click here to view the AtliQ Data Infrastructure & Catalog (PDF)](https://drive.google.com/file/d/1-U9d7SHovw6CSTUdNe_20UQibj-j6-NP/view?usp=sharing)
-
