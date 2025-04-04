@@ -34,7 +34,7 @@ To ensure data integrity before generating reports, a validation check was condu
 
 - A **discrepancy** was identified in the **Total Forecast Quantity for 2022**.
 - The issue was escalated to the **Data Engineer**, who confirmed that the product dataset was recently updated.
-- Further investigation with **Product Owner Nick Puri** revealed that a **new product (AQ Marquee P4)** had been launched.
+- Further investigation with **Product Owner** revealed that a **new product (AQ Marquee P4)** had been launched.
 - The missing forecast quantity of **376K** was attributed to this new product.
 - After the **database was updated**, a refresh and revalidation in Power BI showed that all figures matched the benchmark values.
 
